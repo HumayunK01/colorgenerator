@@ -14,6 +14,7 @@ let backgroundsArray = [
   "#E68E36",
   "#556DC8",
   "#7998EE",
+  '#fbca1f'
 ];
 
 function change() {
